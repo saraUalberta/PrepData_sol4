@@ -1,0 +1,8 @@
+MNI Transform File
+% avi2talxfm
+
+Transform_Type = Linear;
+Linear_Transform = 
+1.050544 0.021702 -0.001189 -220.117447
+-0.046508 1.092599 0.180607 -390.600189
+0.005858 -0.176301 1.089963 -544.819336;
