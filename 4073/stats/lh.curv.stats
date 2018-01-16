@@ -1,0 +1,220 @@
+
+Raw <mean> +- <std> (using 'lh.curv'):                -0.03903 +- 0.1910 
+       Raw Min:                                       -1.53040 at vertex 75627   
+       Raw Max:                                        2.94717 at vertex 49557   
+       Raw Curvature Calculation Type:                discrete
+       Raw Mean Vertex Separation (Whole Surface):     0.84582 +- 0.25267 mm
+       Raw Total Surface Area:                     69845.24219 mm^2
+       Raw Total Number of Vertices:                    115495
+       Raw Average Vertex Area (Whole Surface):        0.60475 mm^2
+       Raw Natural Surface Integral:               -1553.68970
+       Raw Rectified Surface Integral:              9065.17480
+       Raw Positive Surface Integral:               3755.74243
+       Raw Negative Surface Integral:               5309.43213
+       Raw Mean Natural Surface Integral:             -0.01345 across 115495 (100.00%) vertices
+       Raw Mean Rectified Surface Integral:            0.07849 across 115495 (100.00%) vertices
+       Raw Mean Positive Surface Integral:             0.06834 across 54955 (47.58%) vertices
+       Raw Mean Negative Surface Integral:             0.08770 across 60540 (52.42%) vertices
+       Raw AreaNorm Natural Surface Integral:         -0.02224 across 69844.750000 (100.00%) mm^2
+       Raw AreaNorm Rectified Surface Integral:        0.12979 across 69844.750000 (100.00%) mm^2
+       Raw AreaNorm Positive Surface Integral:         0.10794 across 34794.468750 (49.82%) mm^2
+       Raw AreaNorm Negative Surface Integral:         0.15148 across 35050.625000 (50.18%) mm^2
+
+Raw <mean> +- <std> (using 'lh.sulc'):                -0.00000 +- 5.4737 
+       Raw Min:                                      -13.68052 at vertex 93046   
+       Raw Max:                                       15.89081 at vertex 42350   
+       Raw Curvature Calculation Type:                discrete
+       Raw Mean Vertex Separation (Whole Surface):     0.84582 +- 0.25267 mm
+       Raw Total Surface Area:                     69845.24219 mm^2
+       Raw Total Number of Vertices:                    115495
+       Raw Average Vertex Area (Whole Surface):        0.60475 mm^2
+       Raw Natural Surface Integral:               16223.46875
+       Raw Rectified Surface Integral:            307629.71875
+       Raw Positive Surface Integral:             161926.59375
+       Raw Negative Surface Integral:             145703.12500
+       Raw Mean Natural Surface Integral:              0.14047 across 115495 (100.00%) vertices
+       Raw Mean Rectified Surface Integral:            2.66358 across 115495 (100.00%) vertices
+       Raw Mean Positive Surface Integral:             3.02927 across 53454 (46.28%) vertices
+       Raw Mean Negative Surface Integral:             2.34850 across 62041 (53.72%) vertices
+       Raw AreaNorm Natural Surface Integral:          0.23228 across 69844.750000 (100.00%) mm^2
+       Raw AreaNorm Rectified Surface Integral:        4.40448 across 69844.750000 (100.00%) mm^2
+       Raw AreaNorm Positive Surface Integral:         4.83389 across 33498.214844 (47.96%) mm^2
+       Raw AreaNorm Negative Surface Integral:         4.00868 across 36346.878906 (52.04%) mm^2
+
+K <mean> +- <std> (using 'lh.smoothwm'):               0.38536 +- 9.0979 mm^-2
+         K Min:                                      -30.05972 at vertex 83496   
+         K Max:                                     1278.80945 at vertex 49557   
+         K Curvature Calculation Type:                discrete
+         K Mean Vertex Separation (Whole Surface):     0.84582 +- 0.25267 mm
+         K Total Surface Area:                     69845.24219 mm^2
+         K Total Number of Vertices:                    115495
+         K Average Vertex Area (Whole Surface):        0.60475 mm^2
+         K Natural Surface Integral:                  12.56641
+         K Rectified Surface Integral:              6050.34424
+         K Positive Surface Integral:               3031.45532
+         K Negative Surface Integral:               3018.88867
+         K Mean Natural Surface Integral:              0.00011 across 115495 (100.00%) vertices
+         K Mean Rectified Surface Integral:            0.05239 across 115495 (100.00%) vertices
+         K Mean Positive Surface Integral:             0.06092 across 49762 (43.09%) vertices
+         K Mean Negative Surface Integral:             0.04593 across 65733 (56.91%) vertices
+         K AreaNorm Natural Surface Integral:          0.00018 across 69844.750000 (100.00%) mm^2
+         K AreaNorm Rectified Surface Integral:        0.08663 across 69844.750000 (100.00%) mm^2
+         K AreaNorm Positive Surface Integral:         0.13733 across 22074.845703 (31.61%) mm^2
+         K AreaNorm Negative Surface Integral:         0.06320 across 47770.296875 (68.39%) mm^2
+
+H <mean> +- <std> (using 'lh.smoothwm'):              -0.08627 +- 1.0554 mm^-1
+         H Min:                                      -69.98859 at vertex 82537   
+         H Max:                                       56.23737 at vertex 49557   
+         H Curvature Calculation Type:                discrete
+         H Mean Vertex Separation (Whole Surface):     0.84582 +- 0.25267 mm
+         H Total Surface Area:                     69845.24219 mm^2
+         H Total Number of Vertices:                    115495
+         H Average Vertex Area (Whole Surface):        0.60475 mm^2
+         H Natural Surface Integral:               -1714.60010
+         H Rectified Surface Integral:             12555.33301
+         H Positive Surface Integral:               5420.36670
+         H Negative Surface Integral:               7134.96680
+         H Mean Natural Surface Integral:             -0.01485 across 115495 (100.00%) vertices
+         H Mean Rectified Surface Integral:            0.10871 across 115495 (100.00%) vertices
+         H Mean Positive Surface Integral:             0.09176 across 59071 (51.15%) vertices
+         H Mean Negative Surface Integral:             0.12645 across 56424 (48.85%) vertices
+         H AreaNorm Natural Surface Integral:         -0.02455 across 69844.750000 (100.00%) mm^2
+         H AreaNorm Rectified Surface Integral:        0.17976 across 69844.750000 (100.00%) mm^2
+         H AreaNorm Positive Surface Integral:         0.14462 across 37479.730469 (53.66%) mm^2
+         H AreaNorm Negative Surface Integral:         0.22045 across 32365.482422 (46.34%) mm^2
+
+k1 <mean> +- <std> (using 'lh.smoothwm'):             -0.17188 +- 1.8932 mm^-1
+        k1 Min:                                     -136.48663 at vertex 82537   
+        k1 Max:                                       99.64050 at vertex 49557   
+        k1 Curvature Calculation Type:                discrete
+        k1 Mean Vertex Separation (Whole Surface):     0.84582 +- 0.25267 mm
+        k1 Total Surface Area:                     69845.24219 mm^2
+        k1 Total Number of Vertices:                    115495
+        k1 Average Vertex Area (Whole Surface):        0.60475 mm^2
+        k1 Natural Surface Integral:               -4366.41553
+        k1 Rectified Surface Integral:             28814.53711
+        k1 Positive Surface Integral:              12224.06055
+        k1 Negative Surface Integral:              16590.47656
+        k1 Mean Natural Surface Integral:             -0.03781 across 115495 (100.00%) vertices
+        k1 Mean Rectified Surface Integral:            0.24949 across 115495 (100.00%) vertices
+        k1 Mean Positive Surface Integral:             0.20694 across 59071 (51.15%) vertices
+        k1 Mean Negative Surface Integral:             0.29403 across 56424 (48.85%) vertices
+        k1 AreaNorm Natural Surface Integral:         -0.06252 across 69844.750000 (100.00%) mm^2
+        k1 AreaNorm Rectified Surface Integral:        0.41255 across 69844.750000 (100.00%) mm^2
+        k1 AreaNorm Positive Surface Integral:         0.32615 across 37479.730469 (53.66%) mm^2
+        k1 AreaNorm Negative Surface Integral:         0.51260 across 32365.482422 (46.34%) mm^2
+
+k2 <mean> +- <std> (using 'lh.smoothwm'):             -0.00066 +- 0.3295 mm^-1
+        k2 Min:                                      -14.94438 at vertex 42983   
+        k2 Max:                                       17.43509 at vertex 40600   
+        k2 Curvature Calculation Type:                discrete
+        k2 Mean Vertex Separation (Whole Surface):     0.84582 +- 0.25267 mm
+        k2 Total Surface Area:                     69845.24219 mm^2
+        k2 Total Number of Vertices:                    115495
+        k2 Average Vertex Area (Whole Surface):        0.60475 mm^2
+        k2 Natural Surface Integral:                 937.22961
+        k2 Rectified Surface Integral:              8040.17188
+        k2 Positive Surface Integral:               4488.70068
+        k2 Negative Surface Integral:               3551.47119
+        k2 Mean Natural Surface Integral:              0.00811 across 115495 (100.00%) vertices
+        k2 Mean Rectified Surface Integral:            0.06961 across 115495 (100.00%) vertices
+        k2 Mean Positive Surface Integral:             0.07283 across 61635 (53.37%) vertices
+        k2 Mean Negative Surface Integral:             0.06594 across 53860 (46.63%) vertices
+        k2 AreaNorm Natural Surface Integral:          0.01342 across 69844.750000 (100.00%) mm^2
+        k2 AreaNorm Rectified Surface Integral:        0.11511 across 69844.750000 (100.00%) mm^2
+        k2 AreaNorm Positive Surface Integral:         0.12068 across 37195.359375 (53.25%) mm^2
+        k2 AreaNorm Negative Surface Integral:         0.10877 across 32649.884766 (46.75%) mm^2
+
+S <mean> +- <std> (using 'lh.smoothwm'):               2.95955 +- 76.8344 mm^-2
+         S Min:                                        0.00000 at vertex 951     
+         S Max:                                    17687.96094 at vertex 82537   
+         S Curvature Calculation Type:                discrete
+         S Mean Vertex Separation (Whole Surface):     0.84582 +- 0.25267 mm
+         S Total Surface Area:                     69845.24219 mm^2
+         S Total Number of Vertices:                    115495
+         S Average Vertex Area (Whole Surface):        0.60475 mm^2
+         S Natural Surface Integral:               34373.50391
+         S Rectified Surface Integral:             34373.50391
+         S Positive Surface Integral:              34373.50391
+         S Negative Surface Integral:                  0.00000
+         S Mean Natural Surface Integral:              0.29762 across 115495 (100.00%) vertices
+         S Mean Rectified Surface Integral:            0.29762 across 115495 (100.00%) vertices
+         S Mean Positive Surface Integral:             0.29762 across 115495 (100.00%) vertices
+         S Mean Negative Surface Integral:             0.00000 across 0 (00.00%) vertices
+         S AreaNorm Natural Surface Integral:          0.49214 across 69844.750000 (100.00%) mm^2
+         S AreaNorm Rectified Surface Integral:        0.49214 across 69844.750000 (100.00%) mm^2
+         S AreaNorm Positive Surface Integral:         0.49214 across 69844.750000 (100.00%) mm^2
+         S AreaNorm Negative Surface Integral:         0.00000 across 0.000000 (00.00%) mm^2
+
+C <mean> +- <std> (using 'lh.smoothwm'):               0.52791 +- 1.2580 mm^-2
+         C Min:                                        0.00000 at vertex 81417   
+         C Max:                                       96.54218 at vertex 82537   
+         C Curvature Calculation Type:                discrete
+         C Mean Vertex Separation (Whole Surface):     0.84582 +- 0.25267 mm
+         C Total Surface Area:                     69845.24219 mm^2
+         C Total Number of Vertices:                    115495
+         C Average Vertex Area (Whole Surface):        0.60475 mm^2
+         C Natural Surface Integral:               21596.28906
+         C Rectified Surface Integral:             21596.28906
+         C Positive Surface Integral:              21596.28906
+         C Negative Surface Integral:                  0.00000
+         C Mean Natural Surface Integral:              0.18699 across 115495 (100.00%) vertices
+         C Mean Rectified Surface Integral:            0.18699 across 115495 (100.00%) vertices
+         C Mean Positive Surface Integral:             0.18699 across 115495 (100.00%) vertices
+         C Mean Negative Surface Integral:             0.00000 across 0 (00.00%) vertices
+         C AreaNorm Natural Surface Integral:          0.30920 across 69844.750000 (100.00%) mm^2
+         C AreaNorm Rectified Surface Integral:        0.30920 across 69844.750000 (100.00%) mm^2
+         C AreaNorm Positive Surface Integral:         0.30920 across 69844.750000 (100.00%) mm^2
+         C AreaNorm Negative Surface Integral:         0.00000 across 0.000000 (00.00%) mm^2
+
+BE <mean> +- <std> (using 'lh.smoothwm'):              3.72247 +- 88.6805 mm^-2
+        BE Min:                                        0.00000 at vertex 81417   
+        BE Max:                                    18640.78516 at vertex 82537   
+        BE Curvature Calculation Type:                discrete
+        BE Mean Vertex Separation (Whole Surface):     0.84582 +- 0.25267 mm
+        BE Total Surface Area:                     69845.24219 mm^2
+        BE Total Number of Vertices:                    115495
+        BE Average Vertex Area (Whole Surface):        0.60475 mm^2
+        BE Natural Surface Integral:               34392.39453
+        BE Rectified Surface Integral:             34392.39453
+        BE Positive Surface Integral:              34392.39453
+        BE Negative Surface Integral:                  0.00000
+        BE Mean Natural Surface Integral:              0.29778 across 115495 (100.00%) vertices
+        BE Mean Rectified Surface Integral:            0.29778 across 115495 (100.00%) vertices
+        BE Mean Positive Surface Integral:             0.29778 across 115495 (100.00%) vertices
+        BE Mean Negative Surface Integral:             0.00000 across 0 (00.00%) vertices
+        BE AreaNorm Natural Surface Integral:          0.49241 across 69844.750000 (100.00%) mm^2
+        BE AreaNorm Rectified Surface Integral:        0.49241 across 69844.750000 (100.00%) mm^2
+        BE AreaNorm Positive Surface Integral:         0.49241 across 69844.750000 (100.00%) mm^2
+        BE AreaNorm Negative Surface Integral:         0.00000 across 0.000000 (00.00%) mm^2
+
+FI <mean> +- <std> (using 'lh.smoothwm'):              3.13495 +- 81.6526 mm^-2
+        FI Min:                                        0.00000 at vertex 951     
+        FI Max:                                    18152.18750 at vertex 82537   
+        FI Curvature Calculation Type:                discrete
+        FI Mean Vertex Separation (Whole Surface):     0.84582 +- 0.25267 mm
+        FI Total Surface Area:                     69845.24219 mm^2
+        FI Total Number of Vertices:                    115495
+        FI Average Vertex Area (Whole Surface):        0.60475 mm^2
+        FI Natural Surface Integral:               26305.72070
+        FI Rectified Surface Integral:             26305.72070
+        FI Positive Surface Integral:              26305.72070
+        FI Negative Surface Integral:                  0.00000
+        FI Mean Natural Surface Integral:              0.22777 across 115495 (100.00%) vertices
+        FI Mean Rectified Surface Integral:            0.22777 across 115495 (100.00%) vertices
+        FI Mean Positive Surface Integral:             0.22777 across 115495 (100.00%) vertices
+        FI Mean Negative Surface Integral:             0.00000 across 0 (00.00%) vertices
+        FI AreaNorm Natural Surface Integral:          0.37663 across 69844.750000 (100.00%) mm^2
+        FI AreaNorm Rectified Surface Integral:        0.37663 across 69844.750000 (100.00%) mm^2
+        FI AreaNorm Positive Surface Integral:         0.37663 across 69844.750000 (100.00%) mm^2
+        FI AreaNorm Negative Surface Integral:         0.00000 across 0.000000 (00.00%) mm^2
+
+curv -- calculation type:                                discrete
+curv -- Folding Index (FI):                            2093.34277
+curv -- Intrinsic Curvature Index - positive (ICIp):    241.23555
+curv -- Intrinsic Curvature Index - negative (ICIn):    240.23553
+curv -- Intrinsic Curvature Index - natural  (ICIt):      1.00000
+
+Mean across 10 curvatures: 1.0432e+00 +- 1.4841e+00
+
+
